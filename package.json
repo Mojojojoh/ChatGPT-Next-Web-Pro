@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "first package",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mojojojoh/ChatGPT-Next-Web-Pro.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mojojojoh/ChatGPT-Next-Web-Pro/issues"
+  },
+  "homepage": "https://github.com/Mojojojoh/ChatGPT-Next-Web-Pro#readme"
+}
+
