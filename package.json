@@ -24,3 +24,9 @@
   "homepage": "https://github.com/Mojojojoh/ChatGPT-Next-Web-Pro#readme"
 }
 
+"dependencies": {
+  "next": "13.4.12",
+  "react": "18.2.0",
+  "react-dom": "18.2.0"
+}
+
